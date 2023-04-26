@@ -1,0 +1,27 @@
+:root {
+  --accent-color: #ff6c00;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+.menu-link {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1, 33;
+  letter-spacing: 0.1em;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #ff6c00;
+}
